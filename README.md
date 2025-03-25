@@ -1,7 +1,7 @@
 # PBSU_Web_Design_101
 This repository for course material on Preah Sihamoniraja Buddhist University Web Design-101.
 
-This couse will covered for 12 sessions. There would be covered on fundamental topic on web design and development. This course mainly focus on topic such as HTML, CSS, Javacript, and responsive design. 
+This couse will covered for 12 sessions. There would be covered on fundamental topic on web design and development. This course mainly focus on topic such as HTML, CSS, Java script, and responsive design. 
 
 The expectation of this course:
 - Knowledge on fundamental of Web Development and Design
@@ -15,7 +15,7 @@ Here are topic of the course:
 2. Advance HTML & Forms
 3. Introduction to CSS
 4. Advance CSS & Layouts
-5. Introduction to Resposive Design
+5. Introduction to Responsive Design
 6. Introduction to JavaScript
 7. Advanced JavaScript & Form Validation
 8. Introduction to CSS Frameworks
